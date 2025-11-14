@@ -1,0 +1,5 @@
+{
+  "name": "NL2SQL Workflow Simulator",
+  "description": "An interactive flowchart generator for visualizing NL2SQL and Python analytics workflows for various business use cases. Users can explore step-by-step explanations for forecasting, diagnostics, simulations, and more.",
+  "requestFramePermissions": []
+}
